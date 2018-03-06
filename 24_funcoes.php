@@ -14,4 +14,4 @@ function factorial(int $number): int
     return $number;
 }
 
-echo factorial(1);
+echo factorial(4);
